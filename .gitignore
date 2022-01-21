@@ -1,0 +1,9 @@
+__pycache__/
+
+bolt_cities.csv
+/venv
+/data
+
+*.DS_Store
+.AppleDouble
+.LSOverride
